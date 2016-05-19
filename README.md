@@ -1,0 +1,1 @@
+# validations-in-controller-actions-rails-lab-seiji-test-batch-001
